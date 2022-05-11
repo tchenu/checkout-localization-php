@@ -1,5 +1,5 @@
 {
-    "name": "icarusmediadigital/checkout-localization-php",
+    "name": "tchenu/checkout-localization-php",
     "type": "library",
     "require": {
         "php": ">=7.3"
