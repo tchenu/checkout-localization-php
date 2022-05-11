@@ -1,0 +1,27 @@
+{
+    "name": "icarusmediadigital/checkout-localization-php",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "authors": [
+        {
+            "name": "Thibeault Chenu",
+            "email": "contact@tchenu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CheckoutLocalization\\": "src/"
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.21",
+        "symfony/var-dumper": "^6.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
